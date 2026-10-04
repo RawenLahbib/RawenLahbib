@@ -18,10 +18,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
